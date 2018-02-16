@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamicProxy.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamicProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamicProxy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamicProxy_main.iml" group="dynamicProxy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamicProxy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamicProxy_test.iml" group="dynamicProxy" />
+    </modules>
+  </component>
+</project>
